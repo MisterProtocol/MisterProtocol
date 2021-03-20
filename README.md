@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MisterProtocol
+- 👋 Hi, I’m @MisterProtocol.
 - 👀 I’m working on resurrecting the RAND editor, variously know over time as ned, re, and finally "e".
 - 🌱 I’m currently learning GitHub, God help me.
 - 💞️ I’m looking to collaborate on ... hmmm ... well, I'd welcome help with "e", for sure, but boy would I be surprised!
